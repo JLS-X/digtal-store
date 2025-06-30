@@ -11,7 +11,7 @@ const categorias = [
   },
   {
     nome: 'Bonés',
-    imagem: 'https://images.tcdn.com.br/img/img_prod/1150285/bone_mst_281_1_b909645315b840b62fd488ca0dbafe07.jpg',
+    imagem: 'https://i.etsystatic.com/22169720/r/il/55b921/5312388771/il_fullxfull.5312388771_hgdt.jpg',
   },
   {
     nome: 'Tênis',

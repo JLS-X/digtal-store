@@ -48,7 +48,7 @@ npm run dev
 Depois, abra no navegador:
 
 
-http://localhost:3000
+http://localhost:5173/
 📦 Scripts úteis
 Comando	Descrição
 npm run dev	Inicia o projeto em modo desenvolvimento
